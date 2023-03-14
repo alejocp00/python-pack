@@ -1,0 +1,33 @@
+{
+  "name": "python-pack",
+  "displayName": ":Python pack",
+  "publisher": "AlejoCP00",
+  "icon": "logo/python.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/python-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/python-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all python extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.jupyter-renderers",
+    "kevinrose.vsc-python-indent",
+    "ms-python.black-formatter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "ms-toolsai.jupyter",
+    "ms-python.python"
+  ]
+}
