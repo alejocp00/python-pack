@@ -2,7 +2,7 @@
   "name": "python-pack",
   "displayName": ":Python pack",
   "publisher": "AlejoCP00",
-  "icon": "logo/python.png",
+  "icon": "icon.png",
   "repository": {
     "url": "https://github.com/alejocp00/python-pack/"
   },
